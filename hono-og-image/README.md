@@ -2,7 +2,8 @@
 
 Dynamic OG (Open Graph) image generator for Cloudflare Workers with Hono.
 
-![](./og-image.png)
+Sample Image:
+<div><img src="./og-image.png" alt="use-chat-submit" width="480" /></div>
 
 ## Features
 
