@@ -1,4 +1,4 @@
-# Templates
+# Utils
 
 Collection of reusable code utilities by [@chocolat5](https://github.com/chocolat5).
 
@@ -8,8 +8,6 @@ Collection of reusable code utilities by [@chocolat5](https://github.com/chocola
 - Well-documented with examples
 
 > These utils are designed to be copied into your projects and customized to fit your needs.
-
-## Utils
 
 ### [hono-og-image](./hono-og-image)
 
